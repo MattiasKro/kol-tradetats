@@ -5,7 +5,7 @@ Lists all readeable tattoo aoutfits and if you have them, och already have the t
 
 Run this command in the graphical CLI:
 
-`git checkout https://github.com/m-e-meyer/av-snapshot main`
+`git checkout https://github.com/MattiasKro/tradetats/RELEASE main`
 
 Will install the snapshot manager av-snapshot, since it uses the list of outfits from there.
 
